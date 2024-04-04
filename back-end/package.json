@@ -6,12 +6,6 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
         "ts-node": "ts-node",
-        "multiplier": "ts-node -- multiplier.ts",
-        "calculator": "ts-node -- calculator.ts",
-        "multi_cal": "npm-run-all multiplier calculator",
-        "BMI": "ts-node -- bmiCalculator.ts",
-        "calcolaExercises": "ts-node -- workoutCalculator.ts",
-        "ping": "ts-node -- ping.ts",
         "pong": "ts-node -- back/pong.ts",
         "patients": "ts-node -- back/patients.ts",
         "diagnoses": "ts-node -- back/diagnoses.ts",
